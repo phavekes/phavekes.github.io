@@ -1,17 +1,10 @@
 # Kip Kompakt 
 ## Nieuw hefdak
-Onze Kip Caravan heeft een hefdak. Het doek van dit dak is net als de
-caravan al meer dan 20 jaar oud. Bij de hoeken zitten gaten van het
-opvouwen, en het doek is niet meer waterafstotend. Na enkele lapmiddelen,
-zoals opstrijk-doek in de hoeken, en impregneer-spray bleek het dak in een
-flinke regenbui op meerdere plaatsen door te lekken. 
+Onze Kip Caravan heeft een hefdak. Het doek van dit dak is net als de caravan al meer dan 20 jaar oud. Bij de hoeken zitten gaten van het opvouwen, en het doek is niet meer waterafstotend. Na enkele lapmiddelen, zoals opstrijk-doek in de hoeken, en impregneer-spray bleek het dak in een flinke regenbui op meerdere plaatsen door te lekken. 
 
-OOk is het dak door vorige eigenaren met sileconenkit behandeld. Deze kit
-kan niet goed tegen zonlicht, en heeft ook niet goed gehecht aan het dak.
+Ook is het dak door vorige eigenaren met sileconenkit behandeld. Deze kit kan niet goed tegen zonlicht, en heeft ook niet goed gehecht aan het dak.
 
-Kortom: **Tijd om het goed aan te pakken. We gaan het dak verwijderen en na
-laten maken**. Dat is gelijk een mooi moment om alle kit te verwijderen, en
-het dak opnieuw in te kitten met [de juiste soort kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html).
+Kortom: **Tijd om het goed aan te pakken. We gaan het dak verwijderen en na laten maken**. Dat is gelijk een mooi moment om alle kit te verwijderen, en het dak opnieuw in te kitten met [de juiste soort kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html).
 
 ### Voor het verwijderen
 
@@ -47,13 +40,11 @@ Zo zag het dak er uit voordat we het hebben verwijderd.
 ![./voor/IMG_20210909_183051003.jpg](./voor/IMG_20210909_183051003.jpg)
 ### Verwijderen van het dak
 ![./verwijderen/IMG_20210909_184327927.jpg](./verwijderen/IMG_20210909_184327927.jpg)
-Eerst verwijder je de inlegbies rondom. Dit is de plastic strip die de
- schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic
-uitgehard is. 
+Eerst verwijder je de inlegbies rondom. Dit is de plastic strip die de  schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic uitgehard is. 
 
 ![./verwijderen/IMG_20210909_184331786.jpg](./verwijderen/IMG_20210909_184331786.jpg)
 Daarna verwijder je de schroeven uit het aluminium profiel
-
+ 
 ![./verwijderen/IMG_20210909_184338238.jpg](./verwijderen/IMG_20210909_184338238.jpg)
 Als alle schroeven los zijn kunnen de aluminium afwerkstrips verwijderd
  worden. Aan de bovenkant zitten eevnoudige aluminium strips geschroefd, die
@@ -84,8 +75,7 @@ Dan is het tijd om de nietjes te verwijderen. Dit gaat prima door ze eerst
 ![./nietjes/IMG_20210912_122329572.jpg](./nietjes/IMG_20210912_122329572.jpg)
 ![./nietjes/IMG_20210912_122333534.jpg](./nietjes/IMG_20210912_122333534.jpg)
 ![./nietjes/IMG_20210912_122340882.jpg](./nietjes/IMG_20210912_122340882.jpg)
-Ik heb tijdens het losmaken met touwtjes het dak weer vastgezet, om te
-!voorkomen dat de gasveren het dak wegduwen.
+Ik heb tijdens het losmaken met touwtjes het dak weer vastgezet, om te  voorkomen dat de gasveren het dak wegduwen.
 
 ![./nietjes/IMG_20210912_123157829.jpg](./nietjes/IMG_20210912_123157829.jpg)
 Het is nu een erg luchtige caravan geworden.
@@ -101,11 +91,22 @@ Tijd om de kit te verwijderen. Eerst snijd en krab ik de grove stukken weg.
 ![./kit/IMG_20210912_130644979.jpg](./kit/IMG_20210912_130644979.jpg)
 ![./kit/IMG_20210912_130649098.jpg](./kit/IMG_20210912_130649098.jpg)
 ![./kit/IMG_20210912_192746497.jpg](./kit/IMG_20210912_192746497.jpg)
-De aluminium strips en profielen zijn ook schookgekrabd (en worden goed
-!bewaakt).
+De aluminium strips en profielen zijn ook schookgekrabd (en worden goed  bewaakt).
 
 ![./kit/IMG_20210915_140206653.jpg](./kit/IMG_20210915_140206653.jpg)
 ![./kit/IMG_20210915_151408715.jpg](./kit/IMG_20210915_151408715.jpg)
 ![./kit/IMG_20210915_153133234.jpg](./kit/IMG_20210915_153133234.jpg)
 Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/)
+
+### Opnieuw inkitten
+
+### Beschermhoekjes
+
+### Het nieuwe tentdoek
+
+### het plaatsen van het doek
+
+### Het eindresultaat
+
+
 
