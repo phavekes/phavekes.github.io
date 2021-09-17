@@ -49,7 +49,7 @@ Zo zag het dak er uit voordat we het hebben verwijderd.
 ![./verwijderen/IMG_20210909_184327927.jpg](./verwijderen/IMG_20210909_184327927.jpg)
 Eerst verwijder je de inlegbies rondom. Dit is de plastic strip die de
  schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic
-uitgehard is.
+uitgehard is. 
 
 ![./verwijderen/IMG_20210909_184331786.jpg](./verwijderen/IMG_20210909_184331786.jpg)
 Daarna verwijder je de schroeven uit het aluminium profiel
@@ -91,4 +91,21 @@ Ik heb tijdens het losmaken met touwtjes het dak weer vastgezet, om te
 Het is nu een erg luchtige caravan geworden.
 
 ![./nietjes/IMG_20210912_123158824.jpg](./nietjes/IMG_20210912_123158824.jpg)
+
+### Schoonmaken dak
+Tijd om de kit te verwijderen. Eerst snijd en krab ik de grove stukken weg.
+![./kit/IMG_20210912_123723493.jpg](./kit/IMG_20210912_123723493.jpg)
+![./kit/IMG_20210912_123725371.jpg](./kit/IMG_20210912_123725371.jpg)
+![./kit/IMG_20210912_123727538.jpg](./kit/IMG_20210912_123727538.jpg)
+![./kit/IMG_20210912_123730888.jpg](./kit/IMG_20210912_123730888.jpg)
+![./kit/IMG_20210912_130644979.jpg](./kit/IMG_20210912_130644979.jpg)
+![./kit/IMG_20210912_130649098.jpg](./kit/IMG_20210912_130649098.jpg)
+![./kit/IMG_20210912_192746497.jpg](./kit/IMG_20210912_192746497.jpg)
+De aluminium strips en profielen zijn ook schookgekrabd (en worden goed
+!bewaakt).
+
+![./kit/IMG_20210915_140206653.jpg](./kit/IMG_20210915_140206653.jpg)
+![./kit/IMG_20210915_151408715.jpg](./kit/IMG_20210915_151408715.jpg)
+![./kit/IMG_20210915_153133234.jpg](./kit/IMG_20210915_153133234.jpg)
+Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/)
 
