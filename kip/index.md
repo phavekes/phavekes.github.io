@@ -50,17 +50,45 @@ Zo zag het dak er uit voordat we het hebben verwijderd.
 Eerst verwijder je de inlegbies rondom. Dit is de plastic strip die de
  schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic
 uitgehard is.
+
 ![./verwijderen/IMG_20210909_184331786.jpg](./verwijderen/IMG_20210909_184331786.jpg)
 Daarna verwijder je de schroeven uit het aluminium profiel
+
 ![./verwijderen/IMG_20210909_184338238.jpg](./verwijderen/IMG_20210909_184338238.jpg)
 Als alle schroeven los zijn kunnen de aluminium afwerkstrips verwijderd
- worden.
+ worden. Aan de bovenkant zitten eevnoudige aluminium strips geschroefd, die
+verwijderen we ook.
+
 ![./verwijderen/IMG_20210909_184442187.jpg](./verwijderen/IMG_20210909_184442187.jpg)
 ![./verwijderen/IMG_20210909_184446164.jpg](./verwijderen/IMG_20210909_184446164.jpg)
 ![./verwijderen/IMG_20210909_184450375.jpg](./verwijderen/IMG_20210909_184450375.jpg)
 Het doek zit vast aan de caravan met 100'en nietjes
+
 ![./verwijderen/IMG_20210909_184558405.jpg](./verwijderen/IMG_20210909_184558405.jpg)
 ![./verwijderen/IMG_20210909_184604410.jpg](./verwijderen/IMG_20210909_184604410.jpg)
 ![./verwijderen/IMG_20210909_184609173.jpg](./verwijderen/IMG_20210909_184609173.jpg)
+Dan is het tijd om de nietjes te verwijderen. Dit gaat prima door ze eerst
+ met een dunne schroevendraaier omhoog te duwen, en met een tang er uit te
+ trekken. 
 
+![./nietjes/IMG_20210911_104538329.jpg](./nietjes/IMG_20210911_104538329.jpg)
+![./nietjes/IMG_20210911_104543859.jpg](./nietjes/IMG_20210911_104543859.jpg)
+![./nietjes/IMG_20210911_110515502.jpg](./nietjes/IMG_20210911_110515502.jpg)
+![./nietjes/IMG_20210911_110519084.jpg](./nietjes/IMG_20210911_110519084.jpg)
+![./nietjes/IMG_20210911_110849201.jpg](./nietjes/IMG_20210911_110849201.jpg)
+![./nietjes/IMG_20210911_111158872.jpg](./nietjes/IMG_20210911_111158872.jpg)
+![./nietjes/IMG_20210911_111200492.jpg](./nietjes/IMG_20210911_111200492.jpg)
+![./nietjes/IMG_20210911_111924711.jpg](./nietjes/IMG_20210911_111924711.jpg)
+![./nietjes/IMG_20210911_114652545.jpg](./nietjes/IMG_20210911_114652545.jpg)
+![./nietjes/IMG_20210912_122325754.jpg](./nietjes/IMG_20210912_122325754.jpg)
+![./nietjes/IMG_20210912_122329572.jpg](./nietjes/IMG_20210912_122329572.jpg)
+![./nietjes/IMG_20210912_122333534.jpg](./nietjes/IMG_20210912_122333534.jpg)
+![./nietjes/IMG_20210912_122340882.jpg](./nietjes/IMG_20210912_122340882.jpg)
+Ik heb tijdens het losmaken met touwtjes het dak weer vastgezet, om te
+!voorkomen dat de gasveren het dak wegduwen.
+
+![./nietjes/IMG_20210912_123157829.jpg](./nietjes/IMG_20210912_123157829.jpg)
+Het is nu een erg luchtige caravan geworden.
+
+![./nietjes/IMG_20210912_123158824.jpg](./nietjes/IMG_20210912_123158824.jpg)
 
