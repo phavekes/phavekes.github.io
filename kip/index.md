@@ -107,6 +107,16 @@ Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https
 En het doek voor het nieuwe dak hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), Die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
 
 ### Opnieuw inkitten
+![./nieuwekit/IMG_20210919_112752909.jpg](./nieuwekit/IMG_20210919_112752909.jpg)
+Bij [een lokale bouwmarkt](https://www.hornbach.nl/shop/KAISERTHAL-Vlakke-plaat-1000x120x0-5-mm-aluminium/7566025/artikel.html) hebben we aluminium platen van 0,5mm dun gekocht. Deze hebben we op maat gemaakt door ze met een stanleymes te snijden. Met de Dekasyl MS-2 kit plakken we deze over de volle lengte van het dak, zodat alle overlappende dakplaten en profielraanden afgedekt zijn met kit en aluminium, en er geen water meer op het dak blijft staan. Hopelijk zorgt dit voor een einde aan alle lekkages.
+![./nieuwekit/IMG_20210919_112758778.jpg](./nieuwekit/IMG_20210919_112758778.jpg)
+![./nieuwekit/IMG_20210919_112759069.jpg](./nieuwekit/IMG_20210919_112759069.jpg)
+![./nieuwekit/IMG_20210919_131216018.jpg](./nieuwekit/IMG_20210919_131216018.jpg)
+![./nieuwekit/IMG_20210919_131219938.jpg](./nieuwekit/IMG_20210919_131219938.jpg)
+![./nieuwekit/IMG_20210919_171650500.jpg](./nieuwekit/IMG_20210919_171650500.jpg)
+![./nieuwekit/IMG_20210919_171657288.jpg](./nieuwekit/IMG_20210919_171657288.jpg)
+![./nieuwekit/IMG_20210919_171709239.jpg](./nieuwekit/IMG_20210919_171709239.jpg)
+De kit is lastig glad te strijken. Ik heb gemerkt dat het beter te bewerken is als het even heeft gedroogd. De toplaag plakt dan niet meer, en de kit kan dan in model gedrukt worden. Deze kitranden gaan we dus na het drogen wegsnijden an netjes terug plaatsen.
 
 ### Beschermhoekjes
 
