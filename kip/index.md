@@ -95,8 +95,16 @@ De aluminium strips en profielen zijn ook schookgekrabd (en worden goed  bewaakt
 
 ![./kit/IMG_20210915_140206653.jpg](./kit/IMG_20210915_140206653.jpg)
 ![./kit/IMG_20210915_151408715.jpg](./kit/IMG_20210915_151408715.jpg)
+![./kit2//IMG_20210918_103044050.jpg](./kit2//IMG_20210918_103044050.jpg)
+![./kit2//IMG_20210918_103102541.jpg](./kit2//IMG_20210918_103102541.jpg)
+Op de plaats waar de dakplaten overlappen is ooit een dik aluminium plaatje geplaatst. Dit zorgt voor een soort zwembadje op het dak, omdat het water niet weg kan stromen. We gaan dit vervangen door grotere platte aluminium platen over de hele lengte dan het dak.
+![./kit2//IMG_20210918_104533544.jpg](./kit2//IMG_20210918_104533544.jpg)
+![./kit2//IMG_20210918_104539605.jpg](./kit2//IMG_20210918_104539605.jpg)
+
 ![./kit/IMG_20210915_153133234.jpg](./kit/IMG_20210915_153133234.jpg)
 Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/)
+![./kit2//IMG-20210922-WA0000.jpg](./kit2//IMG-20210922-WA0000.jpg)
+En het doek voor het nieuwe dak hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), Die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
 
 ### Opnieuw inkitten
 
