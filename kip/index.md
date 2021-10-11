@@ -6,6 +6,17 @@ Ook is het dak door vorige eigenaren met sileconenkit behandeld. Deze kit kan ni
 
 Kortom: **Tijd om het goed aan te pakken. We gaan het dak verwijderen en na laten maken**. Dat is gelijk een mooi moment om alle kit te verwijderen, en het dak opnieuw in te kitten met [de juiste soort kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html).
 
+Direct naar:
+- [Voor het verwijderen](#voor-het-verwijderen)
+- [Het verwijderen van het dak](#verwijderen-van-het-dak)
+- [Verwijderen kit](#schoonmaken-dak)
+- [Opnieuw inkitten](#opnieuw-inkitten)
+- [Beschermhoekjes](#beschermhoekjes)
+- [Het nieuwe doek plaatsen](#het-plaatsen-van-het-doek)
+- [Het eindresultaat](#het-eindresultaat)
+
+
+
 ### Voor het verwijderen
 
 Zo zag het dak er uit voordat we het hebben verwijderd.
@@ -37,6 +48,8 @@ Zo zag het dak er uit voordat we het hebben verwijderd.
 [![./voor/IMG_20210909_182811640.jpg](./voor/thumb_IMG_20210909_182811640.jpg)](./voor/IMG_20210909_182811640.jpg)
 [![./voor/IMG_20210909_182815809.jpg](./voor/thumb_IMG_20210909_182815809.jpg)](./voor/IMG_20210909_182815809.jpg)
 [![./voor/IMG_20210909_183051003.jpg](./voor/thumb_IMG_20210909_183051003.jpg)](./voor/IMG_20210909_183051003.jpg)
+
+[Terug naar boven](#nieuw-hefdak)
 
 ### Verwijderen van het dak
 [![./verwijderen/IMG_20210909_184327927.jpg](./verwijderen/thumb_IMG_20210909_184327927.jpg)](./verwijderen/IMG_20210909_184327927.jpg)
@@ -78,6 +91,8 @@ Het is nu een erg luchtige caravan geworden.
 
 [![./nietjes/IMG_20210912_123158824.jpg](./nietjes/thumb_IMG_20210912_123158824.jpg)](./nietjes/IMG_20210912_123158824.jpg)
 
+[Terug naar boven](#nieuw-hefdak)
+
 ### Schoonmaken dak
 Tijd om de kit te verwijderen. Eerst snijden en krabben we de grove stukken weg.
 [![./kit/IMG_20210912_123723493.jpg](./kit/thumb_IMG_20210912_123723493.jpg)](./kit/IMG_20210912_123723493.jpg)
@@ -107,6 +122,8 @@ Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https
 ![./kit2/IMG-20210922-WA0000.jpg](./kit2/IMG-20210922-WA0000.jpg)
 En het doek voor het nieuwe dak hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), Die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
 
+[Terug naar boven](#nieuw-hefdak)
+
 
 ### Opnieuw inkitten
 [![./nieuwekit/IMG_20210919_112752909.jpg](./nieuwekit/thumb_IMG_20210919_112752909.jpg)](./nieuwekit/IMG_20210919_112752909.jpg)
@@ -120,6 +137,10 @@ Bij [een lokale bouwmarkt](https://www.hornbach.nl/shop/KAISERTHAL-Vlakke-plaat-
 [![./nieuwekit/IMG_20210919_171657288.jpg](./nieuwekit/thumb_IMG_20210919_171657288.jpg)](./nieuwekit/IMG_20210919_171657288.jpg)
 [![./nieuwekit/IMG_20210919_171709239.jpg](./nieuwekit/thumb_IMG_20210919_171709239.jpg)](./nieuwekit/IMG_20210919_171709239.jpg)
 De kit is lastig glad te strijken. We hebben gemerkt dat het beter te bewerken is als het even heeft gedroogd. De toplaag plakt dan niet meer, en de kit kan dan in model gedrukt worden. Ook kan terpentine gebruikt worden bij het afstrijken. De eerste poging is niet netjes geworden. Deze kitranden gaan we dus na het drogen wegsnijden en netjes terug plaatsen.
+
+
+[Terug naar boven](#nieuw-hefdak)
+
 
 ### Beschermhoekjes
 Tijd om het nieuwe doek terug te plaatsen. We houden het dak op zijn plek met een spanband en wat touwen.
@@ -165,6 +186,8 @@ Met een goed afgeknipte kitspuit is het eenvoudig om de inlegbies weer terug te 
 [![./terugplaatsen/IMG_20211009_160842921.jpg](./terugplaatsen/thumb_IMG_20211009_160842921.jpg)](./terugplaatsen/IMG_20211009_160842921.jpg)
 [![./terugplaatsen/IMG_20211009_160845503.jpg](./terugplaatsen/thumb_IMG_20211009_160845503.jpg)](./terugplaatsen/IMG_20211009_160845503.jpg)
 
+[Terug naar boven](#nieuw-hefdak)
+
 ### Het eindresultaat
 [![./eindresultaat/IMG_20211009_164255594.jpg](./eindresultaat/thumb_IMG_20211009_164255594.jpg)](./eindresultaat/IMG_20211009_164255594.jpg)
 [![./eindresultaat/IMG_20211009_164301237.jpg](./eindresultaat/thumb_IMG_20211009_164301237.jpg)](./eindresultaat/IMG_20211009_164301237.jpg)
@@ -182,5 +205,6 @@ Met een goed afgeknipte kitspuit is het eenvoudig om de inlegbies weer terug te 
 [![./eindresultaat/IMG_20211009_170820657.jpg](./eindresultaat/thumb_IMG_20211009_170820657.jpg)](./eindresultaat/IMG_20211009_170820657.jpg)
 [![./eindresultaat/IMG_20211009_170825900.jpg](./eindresultaat/thumb_IMG_20211009_170825900.jpg)](./eindresultaat/IMG_20211009_170825900.jpg)
 
+[Terug naar boven](#nieuw-hefdak)
 
 
