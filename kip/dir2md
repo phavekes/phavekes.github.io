@@ -1,4 +1,6 @@
 #!/bin/bash
-for file in $1/* ; do
-   echo "![$file]($file)"
+for file in $1/IMG_*.jpg ; do
+   filename=$(basename -- "$file")
+   convert -resize 50% $file $1/thumb_$filename
+   echo "[![$file]($1/thumb_$filename)]($file)"
 done
