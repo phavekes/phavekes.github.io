@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+a#forkme_banner {
+    display: none;
+}
+
+section#main_content {
+    padding: 13px 5px 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    color: #382d22;
+}
+
+.header-level-1 {
+    display: none;
+}
+.header-level-2 {
+    display: none;
+}
