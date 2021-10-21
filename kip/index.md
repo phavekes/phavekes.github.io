@@ -39,9 +39,10 @@ Deze kit heeft zijn beste tijd wel gehad, en de aluminium blokjes onder deze laa
 [![./voor/IMG_20210909_183051003.jpg](./voor/thumb_IMG_20210909_183051003.jpg)](./voor/IMG_20210909_183051003.jpg)
 [![./voor/IMG_20210909_182811640.jpg](./voor/thumb_IMG_20210909_182811640.jpg)](./voor/IMG_20210909_182811640.jpg)
 
-[Terug naar boven](#nieuw-hefdak)
+[Terug naar boven](#)
 
 ### Verwijderen van het dak
+De eerste stap is het verwijderen van het oude dak, zodat het als voorbeeld kan dienen voor het nieuw te maken dak. Het hefdak wordt niet meer als onderdeel verkocht, dus de nieuwe hefdak moet op maat gemaakt worden aan de hand van dit voorbeeld.
 [![./verwijderen/IMG_20210909_184327927.jpg](./verwijderen/thumb_IMG_20210909_184327927.jpg)](./verwijderen/IMG_20210909_184327927.jpg)
 Eerst verwijderen we de inlegbies rondom. Dit is de plastic strip die de  schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic uitgehard is. 
 
@@ -66,6 +67,7 @@ Dan is het tijd om de nietjes te verwijderen. Dit gaat prima door ze eerst met e
 [![./nietjes/IMG_20210911_110515502.jpg](./nietjes/thumb_IMG_20210911_110515502.jpg)](./nietjes/IMG_20210911_110515502.jpg)
 [![./nietjes/IMG_20210911_110519084.jpg](./nietjes/thumb_IMG_20210911_110519084.jpg)](./nietjes/IMG_20210911_110519084.jpg)
 [![./nietjes/IMG_20210911_110849201.jpg](./nietjes/thumb_IMG_20210911_110849201.jpg)](./nietjes/IMG_20210911_110849201.jpg)
+Ook aan de bovenkant kunnen de nietjes er uit.
 [![./nietjes/IMG_20210911_111158872.jpg](./nietjes/thumb_IMG_20210911_111158872.jpg)](./nietjes/IMG_20210911_111158872.jpg)
 [![./nietjes/IMG_20210911_111200492.jpg](./nietjes/thumb_IMG_20210911_111200492.jpg)](./nietjes/IMG_20210911_111200492.jpg)
 [![./nietjes/IMG_20210911_111924711.jpg](./nietjes/thumb_IMG_20210911_111924711.jpg)](./nietjes/IMG_20210911_111924711.jpg)
@@ -81,7 +83,7 @@ Het is nu een erg luchtige caravan geworden.
 
 [![./nietjes/IMG_20210912_123158824.jpg](./nietjes/thumb_IMG_20210912_123158824.jpg)](./nietjes/IMG_20210912_123158824.jpg)
 
-[Terug naar boven](#nieuw-hefdak)
+[Terug naar boven](#)
 
 ### Schoonmaken dak
 Tijd om de kit te verwijderen. Eerst snijden en krabben we de grove stukken weg.
@@ -108,16 +110,21 @@ Op de plaats waar de dakplaten overlappen is ooit een dik aluminium plaatje gepl
 
 [![./kit/IMG_20210915_153133234.jpg](./kit/thumb_IMG_20210915_153133234.jpg)](./kit/IMG_20210915_153133234.jpg)
 Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/)
+- 2x ESVO Tentgaren / naaigaren 50 waterafstotend 125 meter, zwart
+- 50cm Knuttengaas 160 cm breed, zwart
+- 1x Schmetz naaimachinenaalden huishoud
+- 17 meter Tentband / Biesband 21 mm breed polyester, zwart
+- 4x YKK rits 8 mm niet-deelbaar zwart
 
 ![./kit2/IMG-20210922-WA0000.jpg](./kit2/IMG-20210922-WA0000.jpg)
-En het doek voor het nieuwe dak hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), Die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
+En het doek voor het nieuwe dak (2,50m x 1,60m) hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), Die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
 
-[Terug naar boven](#nieuw-hefdak)
+[Terug naar boven](#)
 
 
 ### Opnieuw inkitten
 [![./nieuwekit/IMG_20210919_112752909.jpg](./nieuwekit/thumb_IMG_20210919_112752909.jpg)](./nieuwekit/IMG_20210919_112752909.jpg)
-Bij [een lokale bouwmarkt](https://www.hornbach.nl/shop/KAISERTHAL-Vlakke-plaat-1000x120x0-5-mm-aluminium/7566025/artikel.html) hebben we aluminium platen van 0,5mm dun gekocht. Deze hebben we op maat gemaakt door ze met een stanleymes te snijden. Met de Dekasyl MS-2 kit plakken we deze over de volle lengte van het dak, zodat alle overlappende dakplaten en profielraanden afgedekt zijn met kit en aluminium, en er geen water meer op het dak blijft staan. Hopelijk zorgt dit voor een einde aan alle lekkages.
+Bij [een lokale bouwmarkt](https://www.hornbach.nl/shop/KAISERTHAL-Vlakke-plaat-1000x120x0-5-mm-aluminium/7566025/artikel.html) hebben we aluminium platen van 0,5mm dun gekocht. Deze hebben we op maat gemaakt door ze met een stanleymes te snijden. Met de [Dekasyl MS-2 kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html) plakken we deze over de volle lengte van het dak, zodat alle overlappende dakplaten en profielraanden afgedekt zijn met kit en aluminium, en er geen water meer op het dak blijft staan. Hopelijk zorgt dit voor een einde aan alle lekkages.
 
 [![./nieuwekit/IMG_20210919_112758778.jpg](./nieuwekit/thumb_IMG_20210919_112758778.jpg)](./nieuwekit/IMG_20210919_112758778.jpg)
 [![./nieuwekit/IMG_20210919_112759069.jpg](./nieuwekit/thumb_IMG_20210919_112759069.jpg)](./nieuwekit/IMG_20210919_112759069.jpg)
@@ -129,7 +136,7 @@ Bij [een lokale bouwmarkt](https://www.hornbach.nl/shop/KAISERTHAL-Vlakke-plaat-
 De kit is lastig glad te strijken. We hebben gemerkt dat het beter te bewerken is als het even heeft gedroogd. De toplaag plakt dan niet meer, en de kit kan dan in model gedrukt worden. Ook kan terpentine gebruikt worden bij het afstrijken. De eerste poging is niet netjes geworden. Deze kitranden gaan we dus na het drogen wegsnijden en netjes terug plaatsen.
 
 
-[Terug naar boven](#nieuw-hefdak)
+[Terug naar boven](#)
 
 
 ### Beschermhoekjes
@@ -142,14 +149,11 @@ Deze kofferhoekjes zorgen er straks voor dat het dak niet langs het scherpe alum
 Het hout aan de binnenkant van het hefdak was bij ons niet afgewerkt. Nu we er toch makkelijk bij kunnen plaatsen we hier plastic hoeken, zodat dit ook netter afgewerkt is.
 
 [![./hoeken/IMG_20211009_113212472.jpg](./hoeken/thumb_IMG_20211009_113212472.jpg)](./hoeken/IMG_20211009_113212472.jpg)
-[![./hoeken/IMG_20211009_113232097.jpg](./hoeken/thumb_IMG_20211009_113232097.jpg)](./hoeken/IMG_20211009_113232097.jpg)
 [![./hoeken/IMG_20211009_120439497.jpg](./hoeken/thumb_IMG_20211009_120439497.jpg)](./hoeken/IMG_20211009_120439497.jpg)
-[![./hoeken/IMG_20211009_120446493.jpg](./hoeken/thumb_IMG_20211009_120446493.jpg)](./hoeken/IMG_20211009_120446493.jpg)
 [![./hoeken/IMG_20211009_120453257.jpg](./hoeken/thumb_IMG_20211009_120453257.jpg)](./hoeken/IMG_20211009_120453257.jpg)
-[![./hoeken/IMG_20211009_140614415.jpg](./hoeken/thumb_IMG_20211009_140614415.jpg)](./hoeken/IMG_20211009_140614415.jpg)
 
 ### Het plaatsen van het doek
-Eerst nieten we het doek aan de bovenkant op de hoeken vast.
+Het nieuwe doek is klaar, en kan terug in de caravan geplaatst worden. Eerst nieten we het doek aan de bovenkant op de hoeken vast.
 [![./terugplaatsen/IMG_20211009_141543280.jpg](./terugplaatsen/thumb_IMG_20211009_141543280.jpg)](./terugplaatsen/IMG_20211009_141543280.jpg)
 [![./terugplaatsen/IMG_20211009_141545828.jpg](./terugplaatsen/thumb_IMG_20211009_141545828.jpg)](./terugplaatsen/IMG_20211009_141545828.jpg)
 [![./terugplaatsen/IMG_20211009_142025123.jpg](./terugplaatsen/thumb_IMG_20211009_142025123.jpg)](./terugplaatsen/IMG_20211009_142025123.jpg)
@@ -163,7 +167,6 @@ Als het doek boven goed vast zit, zetten we het aan de onderkant op zijn plek, e
 [![./terugplaatsen/IMG_20211009_144303342.jpg](./terugplaatsen/thumb_IMG_20211009_144303342.jpg)](./terugplaatsen/IMG_20211009_144303342.jpg)
 [![./terugplaatsen/IMG_20211009_144700196.jpg](./terugplaatsen/thumb_IMG_20211009_144700196.jpg)](./terugplaatsen/IMG_20211009_144700196.jpg)
 [![./terugplaatsen/IMG_20211009_150320061.jpg](./terugplaatsen/thumb_IMG_20211009_150320061.jpg)](./terugplaatsen/IMG_20211009_150320061.jpg)
-[![./terugplaatsen/IMG_20211009_150323727.jpg](./terugplaatsen/thumb_IMG_20211009_150323727.jpg)](./terugplaatsen/IMG_20211009_150323727.jpg)
 [![./terugplaatsen/IMG_20211009_150327062.jpg](./terugplaatsen/thumb_IMG_20211009_150327062.jpg)](./terugplaatsen/IMG_20211009_150327062.jpg)
 Als laatste schroeven we de aluminium profielen boven en onder weer terug.
 
@@ -171,16 +174,14 @@ Als laatste schroeven we de aluminium profielen boven en onder weer terug.
 [![./terugplaatsen/IMG_20211009_155238670.jpg](./terugplaatsen/thumb_IMG_20211009_155238670.jpg)](./terugplaatsen/IMG_20211009_155238670.jpg)
 [![./terugplaatsen/IMG_20211009_155242645.jpg](./terugplaatsen/thumb_IMG_20211009_155242645.jpg)](./terugplaatsen/IMG_20211009_155242645.jpg)
 [![./terugplaatsen/IMG_20211009_155404827.jpg](./terugplaatsen/thumb_IMG_20211009_155404827.jpg)](./terugplaatsen/IMG_20211009_155404827.jpg)
-Met een goed afgeknipte kitspuit is het eenvoudig om de inlegbies weer terug te plaatsen in het profiel.
+De oude inlegbies was niet meer te gebruiken, dus hier komt ook een nieuwe in. Met een goed afgeknipte kitspuit is het eenvoudig om de inlegbies weer terug te plaatsen in het profiel.
 
 [![./terugplaatsen/IMG_20211009_160842921.jpg](./terugplaatsen/thumb_IMG_20211009_160842921.jpg)](./terugplaatsen/IMG_20211009_160842921.jpg)
 [![./terugplaatsen/IMG_20211009_160845503.jpg](./terugplaatsen/thumb_IMG_20211009_160845503.jpg)](./terugplaatsen/IMG_20211009_160845503.jpg)
 
-[Terug naar boven](#nieuw-hefdak)
+[Terug naar boven](#)
 
 ### Het eindresultaat
-[![./eindresultaat/IMG_20211009_164255594.jpg](./eindresultaat/thumb_IMG_20211009_164255594.jpg)](./eindresultaat/IMG_20211009_164255594.jpg)
-[![./eindresultaat/IMG_20211009_164301237.jpg](./eindresultaat/thumb_IMG_20211009_164301237.jpg)](./eindresultaat/IMG_20211009_164301237.jpg)
 [![./eindresultaat/IMG_20211009_164733252.jpg](./eindresultaat/thumb_IMG_20211009_164733252.jpg)](./eindresultaat/IMG_20211009_164733252.jpg)
 [![./eindresultaat/IMG_20211009_164739118.jpg](./eindresultaat/thumb_IMG_20211009_164739118.jpg)](./eindresultaat/IMG_20211009_164739118.jpg)
 [![./eindresultaat/IMG_20211009_164752129.jpg](./eindresultaat/thumb_IMG_20211009_164752129.jpg)](./eindresultaat/IMG_20211009_164752129.jpg)
@@ -192,9 +193,12 @@ Met een goed afgeknipte kitspuit is het eenvoudig om de inlegbies weer terug te 
 [![./eindresultaat/IMG_20211009_164851705.jpg](./eindresultaat/thumb_IMG_20211009_164851705.jpg)](./eindresultaat/IMG_20211009_164851705.jpg)
 [![./eindresultaat/IMG_20211009_164900879.jpg](./eindresultaat/thumb_IMG_20211009_164900879.jpg)](./eindresultaat/IMG_20211009_164900879.jpg)
 [![./eindresultaat/IMG_20211009_164930576.jpg](./eindresultaat/thumb_IMG_20211009_164930576.jpg)](./eindresultaat/IMG_20211009_164930576.jpg)
+En aan de binnenkant ziet het er ook weer goed uit.
+[![./eindresultaat/IMG_20211009_164255594.jpg](./eindresultaat/thumb_IMG_20211009_164255594.jpg)](./eindresultaat/IMG_20211009_164255594.jpg)
+[![./eindresultaat/IMG_20211009_164301237.jpg](./eindresultaat/thumb_IMG_20211009_164301237.jpg)](./eindresultaat/IMG_20211009_164301237.jpg)
 [![./eindresultaat/IMG_20211009_170820657.jpg](./eindresultaat/thumb_IMG_20211009_170820657.jpg)](./eindresultaat/IMG_20211009_170820657.jpg)
 [![./eindresultaat/IMG_20211009_170825900.jpg](./eindresultaat/thumb_IMG_20211009_170825900.jpg)](./eindresultaat/IMG_20211009_170825900.jpg)
 
-[Terug naar boven](#nieuw-hefdak)
+[Terug naar boven](#)
 
 
