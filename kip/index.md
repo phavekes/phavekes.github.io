@@ -1,10 +1,10 @@
 # Kip Kompakt 
 ## Nieuw hefdak
-Onze Kip Caravan heeft een hefdak. Het doek van dit dak is net als de caravan al meer dan 20 jaar oud. Bij de hoeken zitten gaten van het opvouwen, en het doek is niet meer waterafstotend. Na enkele lapmiddelen, zoals opstrijk-doek in de hoeken, en impregneer-spray bleek het dak in een flinke regenbui op meerdere plaatsen door te lekken. 
+Onze Kip Kompakt 37 caravan heeft een hefdak. Het doek van dit dak is net als de caravan al meer dan 20 jaar oud. Bij de hoeken zitten gaten van het opvouwen, en het doek is niet meer waterafstotend. Na enkele lapmiddelen, zoals opstrijk-doek in de hoeken, en impregneer-spray bleek het dak in een flinke regenbui op meerdere plaatsen door te lekken. 
 
 Ook is het dak door vorige eigenaren met sileconenkit behandeld. Deze kit kan niet goed tegen zonlicht, en heeft ook niet goed gehecht aan het dak.
 
-Kortom: **Tijd om het goed aan te pakken. We gaan het dak verwijderen en na laten maken**. Dat is gelijk een mooi moment om alle kit te verwijderen, en het dak opnieuw in te kitten met [de juiste soort kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html).
+Kortom: **Tijd om het goed aan te pakken. We gaan het dak verwijderen en na laten maken**. Dat is gelijk een mooi moment om alle oude kit te verwijderen, en het dak opnieuw in te kitten met [de juiste soort kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html).
 
 Direct naar:
 - [Voor het verwijderen](#voor-het-verwijderen)
@@ -19,35 +19,25 @@ Direct naar:
 
 ### Voor het verwijderen
 
-Zo zag het dak er uit voordat we het hebben verwijderd.
+Zo zag het dak er uit voordat we het hebben verwijderd. Het voorste raam was al stuk, en hebben we eerder al dicht geplakt. Het raam komt niet terug in het nieuwe dak.
 [![./voor/IMG_20210814_153142098.jpg](./voor/thumb_IMG_20210814_153142098.jpg)](./voor/IMG_20210814_153142098.jpg)
 [![./voor/IMG_20210814_153153247.jpg](./voor/thumb_IMG_20210814_153153247.jpg)](./voor/IMG_20210814_153153247.jpg)
 [![./voor/IMG_20210814_153159589.jpg](./voor/thumb_IMG_20210814_153159589.jpg)](./voor/IMG_20210814_153159589.jpg)
+Zo zag het er aan de binenkant uit:
 [![./voor/IMG_20210909_182402285.jpg](./voor/thumb_IMG_20210909_182402285.jpg)](./voor/IMG_20210909_182402285.jpg)
-[![./voor/IMG_20210909_182408378.jpg](./voor/thumb_IMG_20210909_182408378.jpg)](./voor/IMG_20210909_182408378.jpg)
 [![./voor/IMG_20210909_182416243.jpg](./voor/thumb_IMG_20210909_182416243.jpg)](./voor/IMG_20210909_182416243.jpg)
 [![./voor/IMG_20210909_182421621.jpg](./voor/thumb_IMG_20210909_182421621.jpg)](./voor/IMG_20210909_182421621.jpg)
 [![./voor/IMG_20210909_182432296.jpg](./voor/thumb_IMG_20210909_182432296.jpg)](./voor/IMG_20210909_182432296.jpg)
-[![./voor/IMG_20210909_182437412.jpg](./voor/thumb_IMG_20210909_182437412.jpg)](./voor/IMG_20210909_182437412.jpg)
+Van de drie horgaat-raampjes komen er maar twee terug. Nu met [Knuttengaas](https://www.esvocampingshop.com/nl/knuttengaas-160-cm-zwart/), dat is iets fijner dan het originele gaas. Twee raampjes lijkt ons wel voldoende.
 [![./voor/IMG_20210909_182513435.jpg](./voor/thumb_IMG_20210909_182513435.jpg)](./voor/IMG_20210909_182513435.jpg)
-[![./voor/IMG_20210909_182522503.jpg](./voor/thumb_IMG_20210909_182522503.jpg)](./voor/IMG_20210909_182522503.jpg)
-[![./voor/IMG_20210909_182526768.jpg](./voor/thumb_IMG_20210909_182526768.jpg)](./voor/IMG_20210909_182526768.jpg)
 [![./voor/IMG_20210909_182533060.jpg](./voor/thumb_IMG_20210909_182533060.jpg)](./voor/IMG_20210909_182533060.jpg)
-[![./voor/IMG_20210909_182538380.jpg](./voor/thumb_IMG_20210909_182538380.jpg)](./voor/IMG_20210909_182538380.jpg)
-[![./voor/IMG_20210909_182543224.jpg](./voor/thumb_IMG_20210909_182543224.jpg)](./voor/IMG_20210909_182543224.jpg)
 [![./voor/IMG_20210909_182600341.jpg](./voor/thumb_IMG_20210909_182600341.jpg)](./voor/IMG_20210909_182600341.jpg)
-[![./voor/IMG_20210909_182603988.jpg](./voor/thumb_IMG_20210909_182603988.jpg)](./voor/IMG_20210909_182603988.jpg)
-[![./voor/IMG_20210909_182607841.jpg](./voor/thumb_IMG_20210909_182607841.jpg)](./voor/IMG_20210909_182607841.jpg)
-[![./voor/IMG_20210909_182654012.jpg](./voor/thumb_IMG_20210909_182654012.jpg)](./voor/IMG_20210909_182654012.jpg)
 [![./voor/IMG_20210909_182658569.jpg](./voor/thumb_IMG_20210909_182658569.jpg)](./voor/IMG_20210909_182658569.jpg)
-[![./voor/IMG_20210909_182701688.jpg](./voor/thumb_IMG_20210909_182701688.jpg)](./voor/IMG_20210909_182701688.jpg)
-[![./voor/IMG_20210909_182714724.jpg](./voor/thumb_IMG_20210909_182714724.jpg)](./voor/IMG_20210909_182714724.jpg)
-[![./voor/IMG_20210909_182719087.jpg](./voor/thumb_IMG_20210909_182719087.jpg)](./voor/IMG_20210909_182719087.jpg)
 [![./voor/IMG_20210909_182721215.jpg](./voor/thumb_IMG_20210909_182721215.jpg)](./voor/IMG_20210909_182721215.jpg)
-[![./voor/IMG_20210909_182755846.jpg](./voor/thumb_IMG_20210909_182755846.jpg)](./voor/IMG_20210909_182755846.jpg)
-[![./voor/IMG_20210909_182811640.jpg](./voor/thumb_IMG_20210909_182811640.jpg)](./voor/IMG_20210909_182811640.jpg)
 [![./voor/IMG_20210909_182815809.jpg](./voor/thumb_IMG_20210909_182815809.jpg)](./voor/IMG_20210909_182815809.jpg)
+Deze kit heeft zijn beste tijd wel gehad, en de aluminium blokjes onder deze laag met kit komen ook niet terug.
 [![./voor/IMG_20210909_183051003.jpg](./voor/thumb_IMG_20210909_183051003.jpg)](./voor/IMG_20210909_183051003.jpg)
+[![./voor/IMG_20210909_182811640.jpg](./voor/thumb_IMG_20210909_182811640.jpg)](./voor/IMG_20210909_182811640.jpg)
 
 [Terug naar boven](#nieuw-hefdak)
 
