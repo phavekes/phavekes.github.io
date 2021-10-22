@@ -122,9 +122,9 @@ Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https
 
 En daarnaast nog twee tubes [Dekasyl MS-2 kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html) en [10 meter inlegbies](https://www.obelink.nl/inlegbies.html).
 
-![./kit2/IMG-20210922-WA0000.jpg](./kit2/IMG-20210922-WA0000.jpg)
+[![./kit2/IMG-20210922-WA0000.jpg](./kit2/IMG-20210922-WA0000.jpg)](./kit2/IMG-20210922-WA0000.jpg)
 En het doek voor het nieuwe dak ([Ten Cate KD-48](https://www.tencateoutdoorfabrics.com/productgroep/cotton/) of [KS-202](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/ks-202/) 320gr/m2 100% katoen, 2,50m x 1,60m) hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
-
+[![./IMG_20201026_132224160.jpg](./IMG_20201026_132224160.jpg)](./IMG_20201026_132224160.jpg)
 [Terug naar boven](#)
 
 
