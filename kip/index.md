@@ -10,6 +10,7 @@ Direct naar:
 - [Voor het verwijderen](#voor-het-verwijderen)
 - [Het verwijderen van het dak](#verwijderen-van-het-dak)
 - [Verwijderen kit](#schoonmaken-dak)
+- [Boodschappenlijst](#boodschappenlijst)
 - [Opnieuw inkitten](#opnieuw-inkitten)
 - [Beschermhoekjes](#beschermhoekjes)
 - [Het nieuwe doek plaatsen](#het-plaatsen-van-het-doek)
@@ -42,9 +43,9 @@ Deze kit heeft zijn beste tijd wel gehad, en de aluminium blokjes onder deze laa
 [Terug naar boven](#)
 
 ### Verwijderen van het dak
-De eerste stap is het verwijderen van het oude dak, zodat het als voorbeeld kan dienen voor het nieuw te maken dak. Het hefdak wordt niet meer als onderdeel verkocht, dus de nieuwe hefdak moet op maat gemaakt worden aan de hand van dit voorbeeld.
+De eerste stap is het verwijderen van het oude dak, zodat het als voorbeeld kan dienen voor het nieuw te maken dak. Het doek van het hefdak wordt niet meer als onderdeel verkocht, dus de nieuwe hefdak moet op maat gemaakt worden aan de hand van dit voorbeeld.
 [![./verwijderen/IMG_20210909_184327927.jpg](./verwijderen/thumb_IMG_20210909_184327927.jpg)](./verwijderen/IMG_20210909_184327927.jpg)
-Eerst verwijderen we de inlegbies rondom. Dit is de plastic strip die de  schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic uitgehard is. 
+Eerst verwijderen we de inlegbies rondom. Dit is de plastic strip die de schroeven afdekt. Deze is niet opnieuw te gebruiken omdat het plastic uitgehard is. De andere inlegbiezen van deze caravan zij al vervangen door een zwarte versie, dus hier komt ook een zwarte terug.
 
 [![./verwijderen/IMG_20210909_184331786.jpg](./verwijderen/thumb_IMG_20210909_184331786.jpg)](./verwijderen/IMG_20210909_184331786.jpg)
 Daarna verwijderen we de schroeven uit het aluminium profiel
@@ -94,20 +95,23 @@ Tijd om de kit te verwijderen. Eerst snijden en krabben we de grove stukken weg.
 [![./kit/IMG_20210912_130644979.jpg](./kit/thumb_IMG_20210912_130644979.jpg)](./kit/IMG_20210912_130644979.jpg)
 [![./kit/IMG_20210912_130649098.jpg](./kit/thumb_IMG_20210912_130649098.jpg)](./kit/IMG_20210912_130649098.jpg)
 [![./kit/IMG_20210912_192746497.jpg](./kit/thumb_IMG_20210912_192746497.jpg)](./kit/IMG_20210912_192746497.jpg)
-De aluminium strips en profielen zijn ook schookgekrabd (en worden goed bewaakt).
+De aluminium strips en profielen zaten ook vol met kitresten. Ze zijn ook schoongemaakt (en worden goed bewaakt).
 
 [![./kit/IMG_20210915_140206653.jpg](./kit/thumb_IMG_20210915_140206653.jpg)](./kit/IMG_20210915_140206653.jpg)
 [![./kit/IMG_20210915_151408715.jpg](./kit/thumb_IMG_20210915_151408715.jpg)](./kit/IMG_20210915_151408715.jpg)
-
+We proberen zoveel mogelijk van de oude kit weg te halen.
 
 [![./kit2/IMG_20210918_103044050.jpg](./kit2/thumb_IMG_20210918_103044050.jpg)](./kit2/IMG_20210918_103044050.jpg)
 [![./kit2/IMG_20210918_103102541.jpg](./kit2/thumb_IMG_20210918_103102541.jpg)](./kit2/IMG_20210918_103102541.jpg)
 Op de plaats waar de dakplaten overlappen is ooit een dik aluminium plaatje geplaatst. Dit zorgt voor een soort zwembadje op het dak, omdat het water niet weg kan stromen. We gaan dit vervangen door grotere platte aluminium platen over de hele lengte dan het dak.
 
 [![./kit2/IMG_20210918_104533544.jpg](./kit2/thumb_IMG_20210918_104533544.jpg)](./kit2/IMG_20210918_104533544.jpg)
+Na kraben en poetsen met wasbenzine is alles weer schoon en klaar voor een nieuwe laag kit.
 [![./kit2/IMG_20210918_104539605.jpg](./kit2/thumb_IMG_20210918_104539605.jpg)](./kit2/IMG_20210918_104539605.jpg)
 
+[Terug naar boven](#)
 
+### Boodschappenlijst
 [![./kit/IMG_20210915_153133234.jpg](./kit/thumb_IMG_20210915_153133234.jpg)](./kit/IMG_20210915_153133234.jpg)
 Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/)
 - 2x ESVO Tentgaren / naaigaren 50 waterafstotend 125 meter, zwart
@@ -116,8 +120,10 @@ Ondertussen hebben we de onderdelen voor het nieuwe dak besteld bij [ESVO](https
 - 17 meter Tentband / Biesband 21 mm breed polyester, zwart
 - 4x YKK rits 8 mm niet-deelbaar zwart
 
+En daarnaast nog twee tubes [Dekasyl MS-2 kit](https://www.obelink.nl/dekalin-dekasyl-ms-2-afdichtingskit.html) en [10 meter inlegbies](https://www.obelink.nl/inlegbies.html).
+
 ![./kit2/IMG-20210922-WA0000.jpg](./kit2/IMG-20210922-WA0000.jpg)
-En het doek voor het nieuwe dak (2,50m x 1,60m) hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), Die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
+En het doek voor het nieuwe dak ([Ten Cate KD-48](https://www.tencateoutdoorfabrics.com/productgroep/cotton/) of [KS-202](https://www.esvocampingshop.com/nl/tentdoek-zeildoek/ks-202/) 320gr/m2 100% katoen, 2,50m x 1,60m) hebben we besteld bij [AtomaTent](https://www.atomatent.nl/), die ook onze luifel op maat voor onze caravan hebben gemaakt. Hierdoor hebben we dezelfde kleur en soort doek in het hefdak als in de luiffel.
 
 [Terug naar boven](#)
 
@@ -153,16 +159,16 @@ Het hout aan de binnenkant van het hefdak was bij ons niet afgewerkt. Nu we er t
 [![./hoeken/IMG_20211009_120453257.jpg](./hoeken/thumb_IMG_20211009_120453257.jpg)](./hoeken/IMG_20211009_120453257.jpg)
 
 ### Het plaatsen van het doek
-Het nieuwe doek is klaar, en kan terug in de caravan geplaatst worden. Eerst nieten we het doek aan de bovenkant op de hoeken vast.
+Het nieuwe doek is klaar, en kan terug in de caravan geplaatst worden. Eerst nieten we het doek aan de bovenkant op de hoeken vast, zodat we weten dat het past.
 [![./terugplaatsen/IMG_20211009_141543280.jpg](./terugplaatsen/thumb_IMG_20211009_141543280.jpg)](./terugplaatsen/IMG_20211009_141543280.jpg)
 [![./terugplaatsen/IMG_20211009_141545828.jpg](./terugplaatsen/thumb_IMG_20211009_141545828.jpg)](./terugplaatsen/IMG_20211009_141545828.jpg)
 [![./terugplaatsen/IMG_20211009_142025123.jpg](./terugplaatsen/thumb_IMG_20211009_142025123.jpg)](./terugplaatsen/IMG_20211009_142025123.jpg)
-Als de hoeken goed zitten nieten we ook aan de bovenkant in het midden, zodat het doek netjes verdeeld is rondom. 
+Als de hoeken goed zitten nieten we ook aan de bovenkant in het midden, zodat het doek netjes verdeeld is rondom. Daarna nieten we boven rondom het doek goed vast.
 
 [![./terugplaatsen/IMG_20211009_142303917.jpg](./terugplaatsen/thumb_IMG_20211009_142303917.jpg)](./terugplaatsen/IMG_20211009_142303917.jpg)
 [![./terugplaatsen/IMG_20211009_142306404.jpg](./terugplaatsen/thumb_IMG_20211009_142306404.jpg)](./terugplaatsen/IMG_20211009_142306404.jpg)
 [![./terugplaatsen/IMG_20211009_144208077.jpg](./terugplaatsen/thumb_IMG_20211009_144208077.jpg)](./terugplaatsen/IMG_20211009_144208077.jpg)
-Als het doek boven goed vast zit, zetten we het aan de onderkant op zijn plek, en ook hier nieten we eerst de hoeken vast, en daarna de rest.
+Als het doek boven goed vast zit, zetten we het aan de onderkant op zijn plek, en ook hier nieten we eerst de hoeken en het midden vast, en daarna de rest.
 
 [![./terugplaatsen/IMG_20211009_144303342.jpg](./terugplaatsen/thumb_IMG_20211009_144303342.jpg)](./terugplaatsen/IMG_20211009_144303342.jpg)
 [![./terugplaatsen/IMG_20211009_144700196.jpg](./terugplaatsen/thumb_IMG_20211009_144700196.jpg)](./terugplaatsen/IMG_20211009_144700196.jpg)
