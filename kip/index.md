@@ -29,7 +29,7 @@ Zo zag het er aan de binenkant uit:
 [![./voor/IMG_20210909_182416243.jpg](./voor/thumb_IMG_20210909_182416243.jpg)](./voor/IMG_20210909_182416243.jpg)
 [![./voor/IMG_20210909_182421621.jpg](./voor/thumb_IMG_20210909_182421621.jpg)](./voor/IMG_20210909_182421621.jpg)
 [![./voor/IMG_20210909_182432296.jpg](./voor/thumb_IMG_20210909_182432296.jpg)](./voor/IMG_20210909_182432296.jpg)
-Van de drie horgaat-raampjes komen er maar twee terug. Nu met [Knuttengaas](https://www.esvocampingshop.com/nl/knuttengaas-160-cm-zwart/), dat is iets fijner dan het originele gaas. Twee raampjes lijkt ons wel voldoende.
+Van de drie horgaas-raampjes komen er maar twee terug. Nu met [Knuttengaas](https://www.esvocampingshop.com/nl/knuttengaas-160-cm-zwart/), dat is iets fijner dan het originele gaas. Twee raampjes lijkt ons wel voldoende.
 [![./voor/IMG_20210909_182513435.jpg](./voor/thumb_IMG_20210909_182513435.jpg)](./voor/IMG_20210909_182513435.jpg)
 [![./voor/IMG_20210909_182533060.jpg](./voor/thumb_IMG_20210909_182533060.jpg)](./voor/IMG_20210909_182533060.jpg)
 [![./voor/IMG_20210909_182600341.jpg](./voor/thumb_IMG_20210909_182600341.jpg)](./voor/IMG_20210909_182600341.jpg)
