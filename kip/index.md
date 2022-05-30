@@ -222,4 +222,9 @@ En aan de binnenkant ziet het er ook weer goed uit.
 [![./eindresultaat/IMG_20211009_170820657.jpg](./eindresultaat/thumb_IMG_20211009_170820657.jpg)](./eindresultaat/IMG_20211009_170820657.jpg)
 [![./eindresultaat/IMG_20211009_170825900.jpg](./eindresultaat/thumb_IMG_20211009_170825900.jpg)](./eindresultaat/IMG_20211009_170825900.jpg)
 
+De eerste keer op vakantie met het nieuwe dak. Met de luifel in dezelfde kleur er bij.
+[![./met_luifel/IMG_20220526_101909484_HDR.jpg](./met_luifel/thumb_IMG_20220526_101909484_HDR.jpg)](./met_luifel/IMG_20220526_101909484_HDR.jpg)
+[![./met_luifel/IMG_20220526_102002237.jpg](./met_luifel/thumb_IMG_20220526_102002237.jpg)](./met_luifel/IMG_20220526_102002237.jpg)
+[![./met_luifel/IMG_20220528_200818319_HDR.jpg](./met_luifel/thumb_IMG_20220528_200818319_HDR.jpg)](./met_luifel/IMG_20220528_200818319_HDR.jpg)
+
 [Terug naar boven](#)
