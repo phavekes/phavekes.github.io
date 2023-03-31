@@ -48,6 +48,7 @@ for file in ./0*.jpg ; do
 done
 
 if [[ `git status --porcelain` ]]; then
+  git status
   git add .
   git commit -m "New 'amstel' images"
   git push
