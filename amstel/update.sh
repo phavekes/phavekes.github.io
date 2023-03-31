@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /ext/phavekes.github.io/amstel
 git pull
 echo "
 <HTML>
@@ -21,19 +22,27 @@ echo "
 <BODY>
 <div>
 <H1>Parkeren in de wijk de Amstel, Waalwijk</H1>
-<h2>
-Op onderstaande foto's is te zien dat de parkeerplaatsen druk bezet zijn buiten openingstijden van de winkels, en dat er nog plaats beschikbaar is als alleen de bewoners in de wijk zijn.
-</h2>
+<h2>Conclusie</h2>
+Op onderstaande foto's is te zien dat de parkeerplaatsen druk bezet zijn buiten openingstijden van de winkels, 
+en dat er overdag nog plaats beschikbaar is als alleen de bewoners in de wijk zijn.<br/>
+<br>
+Overdag is er dus altijd een parkeerplaats beschikbaar voor bewoners binnen de acceptabele loopafstand van 100m (Nota Parkeernormen Waalwijk 2015).<br/>
+Er is dus wel een hoge parkeerdruk in deze wijk, maar niet tijdens de openingstijden van de winkels in het centrum, maar juist in de avonduren.
+Het invoeren van parkeervergunningen zal de druk in de avonduren niet verlagen, omdat er dan voornamelijk bewoners parkeren in de wijk. 
+Het winkelend publiek en het personeel van de bedrijven in het centrum zorgen overdag niet voor een te hoge parkeerdruk in de deze wijk.<br/>
+
+
+
 
 " > index.html
 echo "Finding files"
 find /ext/gphotos-sync/albums/* -path "*Parkeren Amstel*" -name "*.jpg" -exec cp -Lfr {} . \;
-echo "Converting"
+echo "Creating website content"
 for file in ./0*.jpg ; do
    imgdate=$(exiftool -T -DateTimeOriginal $file)
    if [ "$imgdate" != "-" ]; then
    	filename=$(basename -- "$file")
-   	echo "$filename"
+   	echo "Checking $filename"
    	if [ ! -f ./thumb_$filename ]
    	then
    		echo "Create thumb for $file"
