@@ -24,13 +24,14 @@ echo "
 <H1>Parkeren in de wijk de Amstel, Waalwijk</H1>
 <h2>
 Op onderstaande foto's is te zien dat de parkeerplaatsen druk bezet zijn buiten openingstijden van de winkels, 
-en dat er overdag nog plaats beschikbaar is als alleen de bewoners in de wijk zijn.<br/>
-<br>
+en dat er overdag nog plaats beschikbaar is.
+<h2>
+<h3>
 Overdag is er dus altijd een parkeerplaats beschikbaar voor bewoners binnen de acceptabele loopafstand van 100m (Nota Parkeernormen Waalwijk 2015).<br/>
 Er is wel een hoge parkeerdruk in deze wijk, maar niet tijdens de openingstijden van de winkels in het centrum, maar juist in de avonduren.
 Het invoeren van parkeervergunningen zal de druk in de avonduren niet verlagen, omdat er dan voornamelijk bewoners parkeren in de wijk. 
 Het winkelend publiek en het personeel van de bedrijven in het centrum zorgen overdag niet voor een te hoge parkeerdruk in de deze wijk.<br/>
-</h2>
+</h3>
 
 
 " > index.html
@@ -55,6 +56,12 @@ for file in ./0*.jpg ; do
    fi
 done
 
+echo "
+</div>
+</body>
+</html>
+">> index.html
+
 if [[ `git status --porcelain` ]]; then
   git status
   git add .
@@ -64,8 +71,3 @@ else
   echo "Nothing new"
 fi
 
-echo "
-</div>
-</body>
-</html>
-">> index.html
