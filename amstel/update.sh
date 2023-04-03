@@ -1,6 +1,7 @@
 #!/bin/bash
 cd /ext/phavekes.github.io/amstel
 git pull
+echo "" > dates.txt
 echo "
 <HTML>
 <HEAD>
@@ -53,8 +54,12 @@ for file in ./0*.jpg ; do
    	<h3>$imgdate</h3>
    	</br>
 " >> index.html
+	echo "$imgdate" >> dates.txt
    fi
 done
+
+uniek=$(cat dates.txt | cut -c1-13 | sort | uniq | wc -l)
+echo "<h2>Aantal unieke meetmomenten : $uniek</h2>" >> index.html
 
 echo "
 </div>
